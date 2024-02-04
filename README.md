@@ -8,11 +8,8 @@ This project implements image difference detection using both traditional comput
 - [Methodology](#2-methodology)
   - [Traditional Computer Vision Approach](#21-traditional-computer-vision-approach)
   - [Deep Learning Approach with scikit-image](#22-deep-learning-approach-with-scikit-image)
-- [Implementation](#3-implementation)
-  - [Traditional Computer Vision](#31-traditional-computer-vision)
-  - [Deep Learning with scikit-image](#32-deep-learning-with-scikit-image)
 - [Results](#4-results)
-- [Conclusion](#5-conclusion)
+
 
 ## 1. Introduction
 
@@ -41,6 +38,9 @@ The deep learning approach uses the structural similarity index (SSIM) for image
 - Identify contours and draw bounding boxes around significant differences.
 - Display the SSIM value on one of the images.
 
-## Results
+## 4. Results
+1. Traditional Computer Vision Approach : ![Traditional Computer Vision Approach](https://drive.google.com/uc?id=pHJthQbnizDCHZKWthrB7cyqxv3EBgGO)
+2. Deep Learning Approach with scikit-image : ![Deep Learning Approach with scikit-image](https://drive.google.com/uc?id=13Nb2juqVm6y_giHbBvcJ7kkM5oA7XNRR)
+
 ## License
 This project is licensed under the [MIT] License - see the [LICENSE](LICENSE) file for details.
