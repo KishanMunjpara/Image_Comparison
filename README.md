@@ -39,7 +39,7 @@ The deep learning approach uses the structural similarity index (SSIM) for image
 - Display the SSIM value on one of the images.
 
 ## 4. Results
-1. Traditional Computer Vision Approach : ![Traditional Computer Vision Approach](https://drive.google.com/uc?id=pHJthQbnizDCHZKWthrB7cyqxv3EBgGO)
+1. Traditional Computer Vision Approach : ![Traditional Computer Vision Approach](https://drive.google.com/uc?id=1pHJthQbnizDCHZKWthrB7cyqxv3EBgGO)
 2. Deep Learning Approach with scikit-image : ![Deep Learning Approach with scikit-image](https://drive.google.com/uc?id=13Nb2juqVm6y_giHbBvcJ7kkM5oA7XNRR)
 
 ## License
