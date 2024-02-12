@@ -3,7 +3,7 @@
 This project implements image difference detection using both traditional computer vision techniques with OpenCV and a deep learning approach with scikit-image. The goal is to identify differences between two images, draw bounding boxes around varying regions, and calculate a similarity score.
 
 # DEMO
-1. DEMO : ![DEMO](https://graphical-contrast-evaluation.onrender.com)
+1. DEMO : (https://graphical-contrast-evaluation.onrender.com)
    
 ## Table of Contents
 
